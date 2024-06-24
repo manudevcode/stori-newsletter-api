@@ -1,0 +1,4 @@
+.env
+newsletter-files/
+dist/*
+node_modules/*
